@@ -1,6 +1,7 @@
 {
     "tokens": [
         {
+            "id": 0,
             "image": "ipfs://QmSi4siGYAN9JaYTs6uLrPmviZcXLaPCKnC2n1GsdQP93c",
             "name": "Base",
             "description": "The base model",
@@ -8,6 +9,7 @@
             "animation_url": "https://raw.githubusercontent.com/supravoxelle/babs3D/main/donnie_on.gltf"
         },
         {
+            "id": 1,
             "image": "ipfs://QmSi4siGYAN9JaYTs6uLrPmviZcXLaPCKnC2n1GsdQP93c",
             "name": "Sword",
             "description": "The base model",
@@ -15,6 +17,7 @@
             "animation_url": "https://raw.githubusercontent.com/supravoxelle/babs3D/main/sword.gltf"
         },
         {
+            "id": 2,
             "image": "ipfs://QmSi4siGYAN9JaYTs6uLrPmviZcXLaPCKnC2n1GsdQP93c",
             "name": "donnie_chain",
             "description": "The base model",
@@ -22,6 +25,7 @@
             "animation_url": "https://raw.githubusercontent.com/supravoxelle/babs3D/main/donnie_chain.gltf"
         },
         {
+            "id": 3,
             "image": "ipfs://QmSi4siGYAN9JaYTs6uLrPmviZcXLaPCKnC2n1GsdQP93c",
             "name": "donnie_gauntlet",
             "description": "The base model",
